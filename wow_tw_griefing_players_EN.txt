@@ -84,11 +84,17 @@
     </style>
 </head>
 <body><div class='page'><div>
-This list identifies players in the TW region who are strongly suspected of engaging in griefing, rating manipulation, and win-trading in Solo Shuffle during Patch 12.0 and 12.1.  
+This list identifies players in the TW region who are strongly suspected of engaging in griefing, rating manipulation, and win-trading in Solo Shuffle during Patch 12.0 and 12.1. 
+</div>
 
+<div>
 Based on investigations and reports from the PvP community, multiple characters have been linked to a small number of specific Battle.net accounts. 
 
-Please investigate all characters associated with these accounts and review their match histories for potential violations.</div>
+</div>
+
+<div>
+Please investigate all characters associated with these accounts and review their match histories for potential violations.
+</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 Video record (Youtube)</div><div>
 

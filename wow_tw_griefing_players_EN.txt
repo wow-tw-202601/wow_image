@@ -440,10 +440,44 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 </div>
 
 <div style='margin-top:25px;font-weight:700'>⭐【Account #15】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/法大教我'>法大教我-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/法大猋'>法大猋-demon-fall-canyon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/法大麻飛了'>法大麻飛了-demon-fall-canyon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/Casper'>Casper-demon-fall-canyon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/來涵老師這邊'>來涵老師這邊-demon-fall-canyon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/來去泰國搓澡'>來去泰國搓澡-demon-fall-canyon</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #16】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/懼滷'>懼滷-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/雷克豹'>雷克豹-skywall</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/台服衛生股長'>台服衛生股長-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/趁熱吃雞雞'>趁熱吃雞雞-wrathbringer</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #17】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Ltno'>Ltno-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Miud'>Miud-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Melder'>Melder-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Drej'>Drej-sundown-marsh</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #18】These characters are on the same Battle.net account.</div>
 <div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/自己人別防守'>自己人別防守-whisperwind</a></div>
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/牛你娘的逼'>牛你娘的逼-queldorei</a></div>
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Fatsm'>Fatsm-whisperwind</a></div>
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/超硬帕拉丁'>超硬帕拉丁-queldorei</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #19】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/魔劍茱麗葉'>魔劍茱麗葉-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/你老傀歸來'>你老傀歸來-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/薙草稻光'>薙草稻光-hellscream</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #20】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/哥一斯一拉'>哥一斯一拉-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/姚一明一哥'>姚一明一哥-shadowmoon</a></div>
 </div>
 
 </div></body></html>

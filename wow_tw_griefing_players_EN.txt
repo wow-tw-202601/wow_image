@@ -453,6 +453,7 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/雷克豹'>雷克豹-skywall</a></div>
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/台服衛生股長'>台服衛生股長-shadowmoon</a></div>
 <div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/趁熱吃雞雞'>趁熱吃雞雞-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/魯中'>魯中-wrathbringer</a></div>
 </div>
 
 <div style='margin-top:25px;font-weight:700'>⭐【Account #17】These characters are on the same Battle.net account.</div>

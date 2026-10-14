@@ -1,0 +1,443 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<title>[WOW] TW region PvP griefing players</title>
+<meta property="og:title" content="[WOW] TW region PvP griefing players">
+<meta property="og:description" content="[WOW] TW region PvP griefing players">
+<meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
+<meta property="og:type" content="website">
+
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+
+        .no-anchor {
+            text-decoration: none;
+            color: initial;    
+            color: #000
+        }
+
+        .no-anchor:hover {
+            opacity: .75;
+        }
+
+        .my-line-height {
+            line-height: 24px;
+        }
+
+        body {
+            margin: 0;
+            background: #fff;           
+        }
+
+        .page {
+            width: 100%;
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            overflow-wrap: anywhere;
+        }
+
+        a {
+            color: #0563c1;
+            overflow-wrap: anywhere;
+            word-break: break-word;
+        }
+
+       
+        @media (max-width: 600px) {
+            html {
+                font-size: 15px;
+            }
+
+            .page {
+                padding: 12px;
+            }
+
+            .my-line-height {
+                line-height: 1.6;
+            }
+
+            [style*="margin-top:25px"] {
+                margin-top: 20px !important;
+            }
+         
+            [style*="margin-top: -12px"],
+            [style*="margin-top: -30px"] {
+                margin-top: 8px !important;
+            }
+        }
+    </style>
+</head>
+<body><div class='page'><div>
+This list identifies players in the TW region who are strongly suspected of engaging in griefing, rating manipulation, and win-trading in Solo Shuffle during Patch 12.0 and 12.1.  
+
+Based on investigations and reports from the PvP community, multiple characters have been linked to a small number of specific Battle.net accounts. 
+
+Please investigate all characters associated with these accounts and review their match histories for potential violations.</div>
+
+<div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 Video record (Youtube)</div><div>
+
+
+
+
+<div style='color: #951717;font-weight: 700; margin-bottom: -5px;'  >
+All Video list - TW region griefing, win-trading 
+</div>
+<a style='font-size: 16px;' target='_blank' href='https://www.youtube.com/playlist?list=PLIhNlPe5oYoKv6WPGVnDz0JsQj3eRT6K2'>
+https://www.youtube.com/playlist?list=PLIhNlPe5oYoKv6WPGVnDz0JsQj3eRT6K2
+</a>
+
+<div style='color: #951717;font-weight: 700; margin-bottom: -5px;'  >
+2026/6/22 TW Solo Shuffle: Unequipping Gear and Intentionally Feeding ※Characters: 這把你輸、都你滴毛(H鳥)、黎妃爾(六眼飛魚)
+</div>
+<a style='font-size: 16px;' target='_blank' href='https://www.youtube.com/watch?v=bomQtBEYLTs'>
+https://www.youtube.com/watch?v=bomQtBEYLTs
+</a>
+
+<div style='color: #951717;font-weight: 700; margin-top:15px; margin-bottom: -5px;'  >
+Another Case of Gear Unequipping in TW Solo Shuffle ※Characters: 無糖無冰、羽澈、會演是英雄、新橋奶會流
+</div>
+<a style='font-size: 16px;' target='_blank' href='https://www.youtube.com/watch?v=UivzPGWviN0'>
+https://www.youtube.com/watch?v=UivzPGWviN0
+</a>
+
+<div style='color: #951717;font-weight: 700;margin-top:15px; margin-bottom: -5px;' >
+WOW: Midnight Season 1 – Encountering Gear Unequipping in Solo Shuffle ※Characters: 瞎瞎、俠菩提(龍皇)、搞心態別哭、赤鬼伯伯
+</div>
+
+<a style='font-size: 16px; display: inline-block;' target='_blank' href='https://www.youtube.com/watch?v=JPqUeamHL0k'>
+https://www.youtube.com/watch?v=JPqUeamHL0k
+</a>
+
+
+</div></div><div style='margin-top:25px;font-weight:700'>📜Previous season Hisotry </div>
+<div style='margin-top: 0px;'>
+
+<a style='font-size: 16px;margin-top: 3px;display: inline-block; color:#666;' target='_blank' href='https://wow-tw-pvp-v11-s3.wow-pvp-check-tw.workers.dev/'>
+[History link] WOW 11.2 (Season 3)
+</a>
+
+<BR>
+
+<a style='font-size: 16px;margin-top: 3px;display: inline-block; color:#666;' target='_blank' href='https://wow-tw-pvp-v12-s1.wow-pvp-check-tw.workers.dev'>
+[History link] WOW 12.0 (Season 1)
+</a>
+
+<BR>
+
+</div>
+<div style='margin-top:25px;font-weight:700'>⭐【Account #1】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/六眼飛魚'>六眼飛魚-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Kaler'>Kaler-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/成為你的白馬'>成為你的白馬-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/看著我的眼睛'>看著我的眼睛-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/夜黎'>夜黎-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/火隱'>火隱-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可愛行者'>可愛行者-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/黎妃爾'>黎妃爾-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/在迦納國離婚'>在迦納國離婚-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/離開我的依賴'>離開我的依賴-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Huaoovo'>Huaoovo-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/結婚會請我嗎'>結婚會請我嗎-chillwind-point</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/嗷嗚小熊貓'>嗷嗚小熊貓-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Pasedadad'>Pasedadad-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/請善待好自己'>請善待好自己-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可愛牛牛'>可愛牛牛-world-tree</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #2】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你毛'>都你毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/心懷草莓戀'>心懷草莓戀-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你的毛'>都你的毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/熊熊忘記誰'>熊熊忘記誰-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/啾巴比母捏牛'>啾巴比母捏牛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/都沒毛'>都沒毛-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Hwilly'>Hwilly-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都您的毛'>都您的毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Kalvishblind'>Kalvishblind-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你矛'>都你矛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/粵龍'>粵龍-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Mes'>Mes-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都是你的毛'>都是你的毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/大腳老李'>大腳老李-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼蹤'>鬼蹤-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷買龍嗎'>心懷買龍嗎-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/鬼行蹤'>鬼行蹤-krol-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/鬥鬥龍'>鬥鬥龍-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼螳螂'>鬼螳螂-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你滴毛'>都你滴毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都術你的毛'>都術你的毛-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/秋巴比母捏牛'>秋巴比母捏牛-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/都你毛'>都你毛-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/火爆鳥'>火爆鳥-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷北車吃飯'>心懷北車吃飯-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/母捏牛'>母捏牛-silverwing-hold</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #3】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/去冰'>去冰-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/少冰'>少冰-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotang'>Shaotang-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/無糖無冰'>無糖無冰-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotong'>Shaotong-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaobing'>Shaobing-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaoteng'>Shaoteng-sundown-marsh</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #4】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Nebliet'>Nebliet-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/殺頂頂'>殺頂頂-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Valkhar'>Valkhar-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/後撤步'>後撤步-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/羽澈'>羽澈-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/真一文字'>真一文字-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/咚琪琪'>咚琪琪-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Senang'>Senang-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/舞姬力一卜'>舞姬力一卜-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/法師之尊'>法師之尊-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/莣蔇苨'>莣蔇苨-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Cretrol'>Cretrol-whisperwind</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #5】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Solvard'>Solvard-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Ouvin'>Ouvin-nightsong</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Eregard'>Eregard-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Vekhul'>Vekhul-nightsong</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Tlone'>Tlone-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Tyrnb'>Tyrnb-nightsong</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Rhaegal'>Rhaegal-arygos</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #6】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/龍皇熾焰武神'>龍皇熾焰武神-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/地獄神父紅蓮'>地獄神父紅蓮-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/俠菩提'>俠菩提-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/劍魔九千勝'>劍魔九千勝-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arthas/劍非道'>劍非道-arthas</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/朱雀宇智波鼬'>朱雀宇智波鼬-bleeding-hollow</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #7】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Bipolar'>Bipolar-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Pekopeko'>Pekopeko-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Lapras'>Lapras-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Peko'>Peko-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/石化根'>石化根-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Elmog'>Elmog-arygos</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #8】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/大黑撚'>大黑撚-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/憋佬仔'>憋佬仔-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/玩奶專家'>玩奶專家-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/聾成仔愛深蹲'>聾成仔愛深蹲-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/大支馬幫你口'>大支馬幫你口-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/師承逼逼思'>師承逼逼思-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/紫氣東来'>紫氣東来-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/東卍'>東卍-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/狗刷'>狗刷-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/Bloodgga'>Bloodgga-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/豪門桑拿殿'>豪門桑拿殿-hellscream</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #9】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/赤鬼伯伯'>赤鬼伯伯-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/貓貓'>貓貓-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/凱特特'>凱特特-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Ailbhe'>Ailbhe-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/一演四季'>一演四季-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/英雄弗丁'>英雄弗丁-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/Iövöl'>Iövöl-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/單身狗詛咒'>單身狗詛咒-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Iövöl'>Iövöl-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/歐陽科技薩'>歐陽科技薩-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/Iövöl'>Iövöl-demon-fall-canyon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iövöl'>Iövöl-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/被告悶了嗎'>被告悶了嗎-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/霜火峰有賊賊'>霜火峰有賊賊-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iøvøl'>Iøvøl-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/深喉龍'>深喉龍-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Iövöl'>Iövöl-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iöwöl'>Iöwöl-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/瞎瞎'>瞎瞎-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/捏捏大兔大'>捏捏大兔大-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/瘦大奶腿玩年'>瘦大奶腿玩年-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/演員昊京哥'>演員昊京哥-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Iövöl'>Iövöl-nightsong</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/藍莓之夜'>藍莓之夜-icecrown</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/Iövöl'>Iövöl-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/李相赫'>李相赫-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/乛亅乛'>乛亅乛-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/這把我贏'>這把我贏-krol-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/狗狗'>狗狗-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/薩挖低咖'>薩挖低咖-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/Iövöl'>Iövöl-icecrown</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/一代火影'>一代火影-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iôvôl'>Iôvôl-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/依卡諾斯買龍'>依卡諾斯買龍-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/會演是英雄'>會演是英雄-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/影月魔導士'>影月魔導士-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/艾利東斯'>艾利東斯-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/東爛山'>東爛山-zealot-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小隻馬實況主'>小隻馬實況主-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/Iövöl'>Iövöl-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Iövöl'>Iövöl-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/鬼靈戰鬥寶箱'>鬼靈戰鬥寶箱-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/靜嫦菈棒'>靜嫦菈棒-krol-blade</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/捏捏大兔大'>捏捏大兔大-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/跑得快練得快'>跑得快練得快-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/超淩三界途'>超淩三界途-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/卡皮巴拉狗'>卡皮巴拉狗-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/真人無上德'>真人無上德-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/立院三讀通過'>立院三讀通過-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/豁落洞玄文'>豁落洞玄文-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/樂觀熱狗'>樂觀熱狗-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/璐娜在上面搖'>璐娜在上面搖-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/匹配關稅徵收'>匹配關稅徵收-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/吃龜啵啵'>吃龜啵啵-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/乛亅乛'>乛亅乛-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/台服救星瓦瓦'>台服救星瓦瓦-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/孰計年劫多'>孰計年劫多-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/瓦瓦捍衛台服'>瓦瓦捍衛台服-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/三魂得安健'>三魂得安健-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/邪魅不能停'>邪魅不能停-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/捏捏大兔大'>捏捏大兔大-icecrown</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/欲生因蓮花'>欲生因蓮花-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/不生亦不滅'>不生亦不滅-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/長生超八難'>長生超八難-world-tree</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #10】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/裝坤聾'>裝坤聾-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Elsfafa'>Elsfafa-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/就是搞你們'>就是搞你們-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/專搞正常玩家'>專搞正常玩家-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可莉餅'>可莉餅-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/Happylife'>Happylife-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/不開咪都人妖'>不開咪都人妖-chillwind-point</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/王弘鈞小丑呢'>王弘鈞小丑呢-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/大隻馬救台服'>大隻馬救台服-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/無業啃老綠光'>無業啃老綠光-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/腦殘罪'>腦殘罪-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/搞心態別哭'>搞心態別哭-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/鼓王蝗自民'>鼓王蝗自民-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/台服沒人鬥士'>台服沒人鬥士-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/龍成華套掉了'>龍成華套掉了-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/雅波'>雅波-order-of-the-cloud-serpent</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/Smilecc'>Smilecc-chillwind-point</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小美蜜'>小美蜜-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/聾盛驊'>聾盛驊-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/小鳥天堂'>小鳥天堂-silverwing-hold</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/期待被制裁'>期待被制裁-chillwind-point</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/北爛山'>北爛山-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/綠帽俠王弘鈞'>綠帽俠王弘鈞-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/進了又跳了'>進了又跳了-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/愉悅犯'>愉悅犯-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/這把你輸'>這把你輸-spirestone</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/買龍變手打了'>買龍變手打了-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小憨兒李彤軒'>小憨兒李彤軒-world-tree</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #11】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/Reflection'>Reflection-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/鱗片蝙蝠'>鱗片蝙蝠-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/Desperation'>Desperation-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/席維尼史特龍'>席維尼史特龍-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/最最貓'>最最貓-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/水幻虛空'>水幻虛空-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/消磨時間'>消磨時間-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/貓的腳步聲'>貓的腳步聲-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/瑪格哈迪克'>瑪格哈迪克-old-blanchy</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Thoughtfully'>Thoughtfully-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/噴屎嬰仔'>噴屎嬰仔-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Outcast'>Outcast-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/我的刀頓'>我的刀頓-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/瑪格哈薩克'>瑪格哈薩克-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/與你何干'>與你何干-bleeding-hollow</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Corruption'>Corruption-sundown-marsh</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/艾利北斯'>艾利北斯-lights-hope</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Deepbreathe'>Deepbreathe-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/我沒有請保鑣'>我沒有請保鑣-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/Middledie'>Middledie-wrathbringer</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/牛人變牛仁'>牛人變牛仁-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/狐辣'>狐辣-menethil</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/玩不明白'>玩不明白-queldorei</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #12】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/霜火峰有兩賊'>霜火峰有兩賊-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/在刀尖上跳舞'>在刀尖上跳舞-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/肥滋滋大鳥鳥'>肥滋滋大鳥鳥-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/新橋奶會流'>新橋奶會流-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/名偵探摳蘭'>名偵探摳蘭-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/啊啊不要停啊'>啊啊不要停啊-skywall</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/土城的選擇'>土城的選擇-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/超甲狂吸'>超甲狂吸-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/Pavane'>Pavane-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/瞎逼逼'>瞎逼逼-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/龍哥教你深蹲'>龍哥教你深蹲-order-of-the-cloud-serpent</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/過來陪你玩'>過來陪你玩-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/馬蚤馬蚤'>馬蚤馬蚤-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/無情跑酷機器'>無情跑酷機器-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/Pianissimo'>Pianissimo-shadowmoon</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/睡尼馬起來嗨'>睡尼馬起來嗨-dragonmaw</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Lumama'>Lumama-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Mazurak'>Mazurak-world-tree</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #13】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/Miezlaiskis'>Miezlaiskis-order-of-the-cloud-serpent</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/彩虹糖醬'>彩虹糖醬-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Qcxxb'>Qcxxb-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Lycoris'>Lycoris-world-tree</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/Demonl'>Demonl-order-of-the-cloud-serpent</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Siestaxx'>Siestaxx-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/Ubadbad'>Ubadbad-skywall</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/前輩'>前輩-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/公車炸彈'>公車炸彈-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/平風'>平風-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/小書痴下剋上'>小書痴下剋上-order-of-the-cloud-serpent</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/御令嬢'>御令嬢-skywall</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Atmlock'>Atmlock-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/影帝'>影帝-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Missal'>Missal-arygos</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/南瓜车'>南瓜车-arygos</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #14】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小哈比'>俏皮小哈比-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小怪獸'>俏皮小怪獸-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮黑眼圈'>俏皮黑眼圈-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小酷騎'>俏皮小酷騎-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小龍貓'>俏皮小龍貓-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小惡魔'>俏皮小惡魔-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/陽光小哈比'>陽光小哈比-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/邪惡小哈比'>邪惡小哈比-hellscream</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小牛仔'>俏皮小牛仔-hellscream</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Account #15】These characters are on the same Battle.net account.</div>
+<div class='my-line-height'><div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/自己人別防守'>自己人別防守-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/牛你娘的逼'>牛你娘的逼-queldorei</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Fatsm'>Fatsm-whisperwind</a></div>
+<div> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/超硬帕拉丁'>超硬帕拉丁-queldorei</a></div>
+</div>
+
+</div></body></html>

@@ -1,0 +1,444 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<title>魔獸世界-台服PvP異常玩家</title>
+<meta property="og:title" content="魔獸世界-12.0 S1 PvP異常玩家名單">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-10-27更新">
+<meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
+<meta property="og:type" content="website">
+
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+
+        .no-anchor {
+            text-decoration: none;
+            color: initial;    
+            color: #000
+        }
+
+        .no-anchor:hover {
+            opacity: .75;
+        }
+
+        .my-line-height {
+            line-height: 24px;
+        }
+
+        body {
+            margin: 0;
+            background: #fff;           
+        }
+
+        .page {
+            width: 100%;
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            overflow-wrap: anywhere;
+        }
+
+        a {
+            color: #0563c1;
+            overflow-wrap: anywhere;
+            word-break: break-word;
+        }
+
+       
+        @media (max-width: 600px) {
+            html {
+                font-size: 15px;
+            }
+
+            .page {
+                padding: 12px;
+            }
+
+            .my-line-height {
+                line-height: 1.6;
+            }
+
+            [style*="margin-top:25px"] {
+                margin-top: 20px !important;
+            }
+
+            /*
+             * 手機版不要使用負 margin，
+             * 避免連結和標題互相重疊。
+             */
+            [style*="margin-top: -12px"],
+            [style*="margin-top: -30px"] {
+                margin-top: 8px !important;
+            }
+        }
+    </style>
+</head>
+<body><div class='page'><div>⏱️本資料為 12.0 賽季 S1 名單。<a href='https://tw-wow-pvp.wow-pvp-check-tw.workers.dev' target='_blank'>當前賽季請參考 </a> </div>
+<div>S1賽季 有出現在排行榜的可疑玩家</div>
+
+<div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>
+
+<div style='color: #951717;font-weight: 700; margin-bottom: -5px;'  >
+2026/6/22 台服SOLO脫裝送頭 ※影片角色: 這把你輸、都你滴毛(H鳥)、黎妃爾(六眼飛魚)
+</div>
+<a style='font-size: 16px;' target='_blank' href='https://www.youtube.com/watch?v=bomQtBEYLTs'>
+https://www.youtube.com/watch?v=bomQtBEYLTs
+</a>
+
+<div style='color: #951717;font-weight: 700; margin-top:15px; margin-bottom: -5px;'  >
+台服SOLO又遇到脫裝 ※影片角色: 無糖無冰、羽澈(風無音)、會演是英雄、新橋奶會流
+</div>
+<a style='font-size: 16px;' target='_blank' href='https://www.youtube.com/watch?v=UivzPGWviN0'>
+https://www.youtube.com/watch?v=UivzPGWviN0
+</a>
+
+<div style='color: #951717;font-weight: 700;margin-top:15px; margin-bottom: -5px;' >
+魔獸世界至暗之夜第一季SOLO遇到脫裝 ※影片角色: 瞎瞎、俠菩提(龍皇)、搞心態別哭、赤鬼伯伯
+</div>
+
+<a style='font-size: 16px; display: inline-block;' target='_blank' href='https://www.youtube.com/watch?v=JPqUeamHL0k'>
+https://www.youtube.com/watch?v=JPqUeamHL0k
+</a>
+
+
+</div></div><div style='margin-top:25px;font-weight:700'>📜 過往歷史紀錄</div>
+<div style='margin-top: 0px;'>
+
+<a style='font-size: 16px;margin-top: 3px;display: inline-block; color:#666;' target='_blank' href='https://wow-tw-pvp-v11-s3.wow-pvp-check-tw.workers.dev/'>
+[連結] 11版 地心之戰 第三賽季
+</a>
+
+<BR>
+
+<a style='font-size: 16px;margin-top: 3px;display: inline-block; color:#666;' target='_blank' href='https://wow-tw-pvp-v12-s1.wow-pvp-check-tw.workers.dev'>
+[連結] 12版 至暗之夜 第一賽季
+</a>
+
+<BR>
+
+<a style='font-size: 16px;margin-top: 3px;display: inline-block; color:#666;' target='_blank' href='https://tw.forums.blizzard.com/zh/wow/t/%E6%BF%AB%E7%94%A8%E9%81%8A%E6%88%B2%E6%A9%9F%E5%88%B6%E8%99%95%E7%BD%B0%E5%90%8D%E5%96%AE-20260902/16598'>
+[官方懲處名單] 濫用遊戲機制處罰名單-2026/09/02
+</a>
+
+
+</div>
+<div style='margin-top:25px;font-weight:700'>⭐【六眼飛魚-世界之樹】  </div>
+<div class='my-line-height'><div>2818 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/六眼飛魚'>六眼飛魚-世界之樹</a></div>
+<div>2656 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/夜黎'>夜黎-世界之樹</a></div>
+<div>2642 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Kaler'>Kaler-世界之樹</a></div>
+<div>2637 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/火隱'>火隱-世界之樹</a></div>
+<div>2630 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/看著我的眼睛'>看著我的眼睛-眾星之子</a></div>
+<div>2608 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可愛行者'>可愛行者-世界之樹</a></div>
+<div>2584 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/黎妃爾'>黎妃爾-世界之樹</a></div>
+<div>2546 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/成為你的白馬'>成為你的白馬-眾星之子</a></div>
+<div>2513 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/在迦納國離婚'>在迦納國離婚-銀翼要塞</a></div>
+<div>2507 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/結婚會請我嗎'>結婚會請我嗎-冰風崗哨</a></div>
+<div>2465 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/嗷嗚小熊貓'>嗷嗚小熊貓-血之谷</a></div>
+<div>2425 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/離開我的依賴'>離開我的依賴-世界之樹</a></div>
+<div>2347 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Huaoovo'>Huaoovo-語風</a></div>
+<div>2091 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Pasedadad'>Pasedadad-銀翼要塞</a></div>
+<div>2084 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/請善待好自己'>請善待好自己-世界之樹</a></div>
+<div>2080 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可愛牛牛'>可愛牛牛-世界之樹</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【都你毛-銀翼要塞】  (H鳥-Hwilly)</div>
+<div class='my-line-height'><div>2732 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/心懷草莓戀'>心懷草莓戀-銀翼要塞</a></div>
+<div>2691 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你的毛'>都你的毛-銀翼要塞</a></div>
+<div>2689 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都您的毛'>都您的毛-銀翼要塞</a></div>
+<div>2687 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/熊熊忘記誰'>熊熊忘記誰-銀翼要塞</a></div>
+<div>2623 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/啾巴比母捏牛'>啾巴比母捏牛-銀翼要塞</a></div>
+<div>2615 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Mes'>Mes-銀翼要塞</a></div>
+<div>2615 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都是你的毛'>都是你的毛-銀翼要塞</a></div>
+<div>2605 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼螳螂'>鬼螳螂-銀翼要塞</a></div>
+<div>2563 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你矛'>都你矛-銀翼要塞</a></div>
+<div>2550 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/粵龍'>粵龍-銀翼要塞</a></div>
+<div>2540 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/鬥鬥龍'>鬥鬥龍-眾星之子</a></div>
+<div>2538 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/都沒毛'>都沒毛-眾星之子</a></div>
+<div>2525 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Hwilly'>Hwilly-眾星之子</a></div>
+<div>2521 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你滴毛'>都你滴毛-銀翼要塞</a></div>
+<div>2521 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼蹤'>鬼蹤-銀翼要塞</a></div>
+<div>2519 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都你毛'>都你毛-銀翼要塞</a></div>
+<div>2517 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/都術你的毛'>都術你的毛-銀翼要塞</a></div>
+<div>2479 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷買龍嗎'>心懷買龍嗎-世界之樹</a></div>
+<div>2463 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/秋巴比母捏牛'>秋巴比母捏牛-聖光之願</a></div>
+<div>2396 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/鬼行蹤'>鬼行蹤-克羅之刃</a></div>
+<div>2366 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/都你毛'>都你毛-聖光之願</a></div>
+<div>2354 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/好威力'>好威力-眾星之子</a></div>
+<div>2333 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Kalvishblind'>Kalvishblind-世界之樹</a></div>
+<div>2171 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/火爆鳥'>火爆鳥-銀翼要塞</a></div>
+<div>2042 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷北車吃飯'>心懷北車吃飯-世界之樹</a></div>
+<div>1771 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/母捏牛'>母捏牛-銀翼要塞</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【少冰少糖-日落沼澤】  </div>
+<div class='my-line-height'><div>2625 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotang'>Shaotang-日落沼澤</a></div>
+<div>2580 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/去冰'>去冰-日落沼澤</a></div>
+<div>2540 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/少冰'>少冰-日落沼澤</a></div>
+<div>2494 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotong'>Shaotong-日落沼澤</a></div>
+<div>2355 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/無糖無冰'>無糖無冰-日落沼澤</a></div>
+<div>2162 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaobing'>Shaobing-日落沼澤</a></div>
+<div>1999 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaoteng'>Shaoteng-日落沼澤</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Nebliet-語風】  (風無音)</div>
+<div class='my-line-height'><div>2827 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/莣蔇苨'>莣蔇苨-語風</a></div>
+<div>2714 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/殺頂頂'>殺頂頂-語風</a></div>
+<div>2710 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Valkhar'>Valkhar-語風</a></div>
+<div>2638 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/後撤步'>後撤步-語風</a></div>
+<div>2634 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/真一文字'>真一文字-語風</a></div>
+<div>2623 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Nebliet'>Nebliet-語風</a></div>
+<div>2613 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/咚琪琪'>咚琪琪-語風</a></div>
+<div>2544 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/羽澈'>羽澈-語風</a></div>
+<div>2543 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Cretrol'>Cretrol-語風</a></div>
+<div>2524 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/法師之尊'>法師之尊-語風</a></div>
+<div>2487 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/舞姬力一卜'>舞姬力一卜-語風</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Tlone-亞雷戈斯】  (Tyr)</div>
+<div class='my-line-height'><div>2725 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Eregard'>Eregard-眾星之子</a></div>
+<div>2722 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Solvard'>Solvard-眾星之子</a></div>
+<div>2701 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Tlone'>Tlone-亞雷戈斯</a></div>
+<div>2695 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Tyrnb'>Tyrnb-夜空之歌</a></div>
+<div>2643 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Rhaegal'>Rhaegal-亞雷戈斯</a></div>
+<div>2630 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Ouvin'>Ouvin-夜空之歌</a></div>
+<div>2612 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Vekhul'>Vekhul-夜空之歌</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【龍皇熾焰武神-眾星之子】  </div>
+<div class='my-line-height'><div>2572 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/地獄神父紅蓮'>地獄神父紅蓮-眾星之子</a></div>
+<div>2567 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/龍皇熾焰武神'>龍皇熾焰武神-眾星之子</a></div>
+<div>2441 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/劍魔九千勝'>劍魔九千勝-眾星之子</a></div>
+<div>2412 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/俠菩提'>俠菩提-眾星之子</a></div>
+<div>2375 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/朱雀宇智波鼬'>朱雀宇智波鼬-血之谷</a></div>
+<div>2339 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arthas/劍非道'>劍非道-阿薩斯</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【石化根-亞雷戈斯】  </div>
+<div class='my-line-height'><div>2758 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Pekopeko'>Pekopeko-亞雷戈斯</a></div>
+<div>2647 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Bipolar'>Bipolar-亞雷戈斯</a></div>
+<div>2605 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/石化根'>石化根-亞雷戈斯</a></div>
+<div>2522 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Peko'>Peko-亞雷戈斯</a></div>
+<div>2487 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Elmog'>Elmog-亞雷戈斯</a></div>
+<div>2009 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/Elmon'>Elmon-暗影之月</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【專業鮑魚師傅-地獄吼】  </div>
+<div class='my-line-height'><div>2721 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/憋佬仔'>憋佬仔-地獄吼</a></div>
+<div>2711 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/大黑撚'>大黑撚-地獄吼</a></div>
+<div>2673 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/玩奶專家'>玩奶專家-地獄吼</a></div>
+<div>2644 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/聾成仔愛深蹲'>聾成仔愛深蹲-地獄吼</a></div>
+<div>2620 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/大支馬幫你口'>大支馬幫你口-地獄吼</a></div>
+<div>2608 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/師承逼逼思'>師承逼逼思-地獄吼</a></div>
+<div>2575 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/紫氣東来'>紫氣東来-地獄吼</a></div>
+<div>2563 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/東卍'>東卍-地獄吼</a></div>
+<div>2550 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/狗刷'>狗刷-地獄吼</a></div>
+<div>2307 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/Bloodgga'>Bloodgga-地獄吼</a></div>
+<div>1834 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/豪門桑拿殿'>豪門桑拿殿-地獄吼</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【深喉龍-世界之樹】  </div>
+<div class='my-line-height'><div>2853 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Iövöl'>Iövöl-世界之樹</a></div>
+<div>2848 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/東爛山'>東爛山-狂熱之刃</a></div>
+<div>2816 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小隻馬實況主'>小隻馬實況主-世界之樹</a></div>
+<div>2782 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Ailbhe'>Ailbhe-世界之樹</a></div>
+<div>2774 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/貓貓'>貓貓-語風</a></div>
+<div>2762 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iôvôl'>Iôvôl-老馬布蘭契</a></div>
+<div>2724 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/李相赫'>李相赫-狂熱之刃</a></div>
+<div>2718 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/薩挖低咖'>薩挖低咖-世界之樹</a></div>
+<div>2710 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/赤鬼伯伯'>赤鬼伯伯-眾星之子</a></div>
+<div>2708 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/單身狗詛咒'>單身狗詛咒-世界之樹</a></div>
+<div>2679 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/Iövöl'>Iövöl-巨龍之喉</a></div>
+<div>2675 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/一演四季'>一演四季-巨龍之喉</a></div>
+<div>2645 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/狗狗'>狗狗-世界之樹</a></div>
+<div>2643 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/瘦大奶腿玩年'>瘦大奶腿玩年-語風</a></div>
+<div>2639 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/英雄弗丁'>英雄弗丁-世界之樹</a></div>
+<div>2630 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/鬼靈戰鬥寶箱'>鬼靈戰鬥寶箱-世界之樹</a></div>
+<div>2629 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/凱特特'>凱特特-老馬布蘭契</a></div>
+<div>2621 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/藍莓之夜'>藍莓之夜-寒冰皇冠</a></div>
+<div>2616 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/Iövöl'>Iövöl-寒冰皇冠</a></div>
+<div>2613 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/霜火峰有賊賊'>霜火峰有賊賊-世界之樹</a></div>
+<div>2612 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/靜嫦菈棒'>靜嫦菈棒-克羅之刃</a></div>
+<div>2611 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/這把我贏'>這把我贏-克羅之刃</a></div>
+<div>2595 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/捏捏大兔大'>捏捏大兔大-暗影之月</a></div>
+<div>2587 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Iövöl'>Iövöl-亞雷戈斯</a></div>
+<div>2585 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/被告悶了嗎'>被告悶了嗎-暗影之月</a></div>
+<div>2583 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/Iövöl'>Iövöl-地獄吼</a></div>
+<div>2583 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iövöl'>Iövöl-老馬布蘭契</a></div>
+<div>2582 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Iövöl'>Iövöl-血之谷</a></div>
+<div>2579 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/歐陽科技薩'>歐陽科技薩-世界之樹</a></div>
+<div>2573 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/Iövöl'>Iövöl-狂熱之刃</a></div>
+<div>2573 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/捏捏大兔大'>捏捏大兔大-狂熱之刃</a></div>
+<div>2560 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/一代火影'>一代火影-地獄吼</a></div>
+<div>2558 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/乛亅乛'>乛亅乛-狂熱之刃</a></div>
+<div>2552 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/會演是英雄'>會演是英雄-世界之樹</a></div>
+<div>2547 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iøvøl'>Iøvøl-老馬布蘭契</a></div>
+<div>2535 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/瞎瞎'>瞎瞎-狂熱之刃</a></div>
+<div>2525 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/艾利東斯'>艾利東斯-聖光之願</a></div>
+<div>2503 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/深喉龍'>深喉龍-世界之樹</a></div>
+<div>2501 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iöwöl'>Iöwöl-老馬布蘭契</a></div>
+<div>2497 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/Iövöl'>Iövöl-屠魔山谷</a></div>
+<div>2482 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/演員昊京哥'>演員昊京哥-世界之樹</a></div>
+<div>2466 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Iövöl'>Iövöl-夜空之歌</a></div>
+<div>2416 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/跑得快練得快'>跑得快練得快-世界之樹</a></div>
+<div>2268 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/影月魔導士'>影月魔導士-世界之樹</a></div>
+<div>2168 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/超淩三界途'>超淩三界途-尖石</a></div>
+<div>2168 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/卡皮巴拉狗'>卡皮巴拉狗-世界之樹</a></div>
+<div>2021 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/真人無上德'>真人無上德-尖石</a></div>
+<div>1727 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/立院三讀通過'>立院三讀通過-世界之樹</a></div>
+<div>1647 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/豁落洞玄文'>豁落洞玄文-尖石</a></div>
+<div>1469 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/樂觀熱狗'>樂觀熱狗-世界之樹</a></div>
+<div>1440 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/璐娜在上面搖'>璐娜在上面搖-世界之樹</a></div>
+<div>1440 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/匹配關稅徵收'>匹配關稅徵收-世界之樹</a></div>
+<div>1056 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-血之谷</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/吃龜啵啵'>吃龜啵啵-世界之樹</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/乛亅乛'>乛亅乛-世界之樹</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/孰計年劫多'>孰計年劫多-尖石</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/欲生因蓮花'>欲生因蓮花-尖石</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/邪魅不能停'>邪魅不能停-世界之樹</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/三魂得安健'>三魂得安健-世界之樹</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/icecrown/捏捏大兔大'>捏捏大兔大-寒冰皇冠</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/台服救星瓦瓦'>台服救星瓦瓦-聖光之願</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/瓦瓦捍衛台服'>瓦瓦捍衛台服-聖光之願</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/不生亦不滅'>不生亦不滅-尖石</a></div>
+<div>192 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/長生超八難'>長生超八難-世界之樹</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Elsfafa-銀翼要塞】  </div>
+<div class='my-line-height'><div>2846 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/搞心態別哭'>搞心態別哭-憤怒使者</a></div>
+<div>2751 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/聾盛驊'>聾盛驊-憤怒使者</a></div>
+<div>2739 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/大隻馬救台服'>大隻馬救台服-憤怒使者</a></div>
+<div>2719 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/專搞正常玩家'>專搞正常玩家-世界之樹</a></div>
+<div>2681 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/王弘鈞小丑呢'>王弘鈞小丑呢-憤怒使者</a></div>
+<div>2654 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/就是搞你們'>就是搞你們-亞雷戈斯</a></div>
+<div>2636 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/Elsfafa'>Elsfafa-銀翼要塞</a></div>
+<div>2624 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/期待被制裁'>期待被制裁-冰風崗哨</a></div>
+<div>2622 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/綠帽俠王弘鈞'>綠帽俠王弘鈞-憤怒使者</a></div>
+<div>2602 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/裝坤聾'>裝坤聾-銀翼要塞</a></div>
+<div>2597 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/腦殘罪'>腦殘罪-憤怒使者</a></div>
+<div>2593 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/北爛山'>北爛山-憤怒使者</a></div>
+<div>2579 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可莉餅'>可莉餅-世界之樹</a></div>
+<div>2575 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/Happylife'>Happylife-憤怒使者</a></div>
+<div>2572 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/龍成華套掉了'>龍成華套掉了-尖石</a></div>
+<div>2533 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/不開咪都人妖'>不開咪都人妖-冰風崗哨</a></div>
+<div>2522 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/台服沒人鬥士'>台服沒人鬥士-尖石</a></div>
+<div>2433 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/進了又跳了'>進了又跳了-憤怒使者</a></div>
+<div>2395 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/愉悅犯'>愉悅犯-亞雷戈斯</a></div>
+<div>2355 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/spirestone/這把你輸'>這把你輸-尖石</a></div>
+<div>2340 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小美蜜'>小美蜜-世界之樹</a></div>
+<div>1997 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/Smilecc'>Smilecc-冰風崗哨</a></div>
+<div>1933 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/雅波'>雅波-雲蛟衛</a></div>
+<div>1456 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/小鳥天堂'>小鳥天堂-銀翼要塞</a></div>
+<div>1437 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/買龍變手打了'>買龍變手打了-世界之樹</a></div>
+<div>1375 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/小憨兒李彤軒'>小憨兒李彤軒-世界之樹</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【Reflection-米奈希爾】  </div>
+<div class='my-line-height'><div>2867 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/Reflection'>Reflection-米奈希爾</a></div>
+<div>2749 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/瑪格哈薩克'>瑪格哈薩克-血之谷</a></div>
+<div>2716 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/與你何干'>與你何干-血之谷</a></div>
+<div>2713 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/Desperation'>Desperation-米奈希爾</a></div>
+<div>2710 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Outcast'>Outcast-血之谷</a></div>
+<div>2662 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/噴屎嬰仔'>噴屎嬰仔-血之谷</a></div>
+<div>2637 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/鱗片蝙蝠'>鱗片蝙蝠-眾星之子</a></div>
+<div>2560 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/水幻虛空'>水幻虛空-米奈希爾</a></div>
+<div>2556 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/席維尼史特龍'>席維尼史特龍-米奈希爾</a></div>
+<div>2552 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Corruption'>Corruption-日落沼澤</a></div>
+<div>2552 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/最最貓'>最最貓-米奈希爾</a></div>
+<div>2550 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/消磨時間'>消磨時間-血之谷</a></div>
+<div>2549 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/貓的腳步聲'>貓的腳步聲-世界之樹</a></div>
+<div>2546 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Thoughtfully'>Thoughtfully-血之谷</a></div>
+<div>2543 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/我的刀頓'>我的刀頓-米奈希爾</a></div>
+<div>2534 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/艾利北斯'>艾利北斯-聖光之願</a></div>
+<div>2518 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/瑪格哈迪克'>瑪格哈迪克-老馬布蘭契</a></div>
+<div>1792 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Deepbreathe'>Deepbreathe-眾星之子</a></div>
+<div>1152 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/我沒有請保鑣'>我沒有請保鑣-米奈希爾</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/Middledie'>Middledie-憤怒使者</a></div>
+<div>192 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/牛人變牛仁'>牛人變牛仁-米奈希爾</a></div>
+<div>192 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/menethil/狐辣'>狐辣-米奈希爾</a></div>
+<div>192 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/玩不明白'>玩不明白-眾星之子</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【小刀尖向前衝-冰霜之刺】  </div>
+<div class='my-line-height'><div>2798 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/肥滋滋大鳥鳥'>肥滋滋大鳥鳥-世界之樹</a></div>
+<div>2725 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/霜火峰有兩賊'>霜火峰有兩賊-暗影之月</a></div>
+<div>2710 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/在刀尖上跳舞'>在刀尖上跳舞-世界之樹</a></div>
+<div>2690 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/啊啊不要停啊'>啊啊不要停啊-天空之牆</a></div>
+<div>2649 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/名偵探摳蘭'>名偵探摳蘭-暗影之月</a></div>
+<div>2648 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/馬蚤馬蚤'>馬蚤馬蚤-世界之樹</a></div>
+<div>2622 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/新橋奶會流'>新橋奶會流-世界之樹</a></div>
+<div>2597 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/Pavane'>Pavane-暗影之月</a></div>
+<div>2593 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/過來陪你玩'>過來陪你玩-亞雷戈斯</a></div>
+<div>2581 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/超甲狂吸'>超甲狂吸-巨龍之喉</a></div>
+<div>2564 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/土城的選擇'>土城的選擇-巨龍之喉</a></div>
+<div>2564 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/龍哥教你深蹲'>龍哥教你深蹲-雲蛟衛</a></div>
+<div>2538 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Mazurak'>Mazurak-世界之樹</a></div>
+<div>2526 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/瞎逼逼'>瞎逼逼-世界之樹</a></div>
+<div>2460 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/無情跑酷機器'>無情跑酷機器-巨龍之喉</a></div>
+<div>2442 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/Pianissimo'>Pianissimo-暗影之月</a></div>
+<div>2265 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/dragonmaw/睡尼馬起來嗨'>睡尼馬起來嗨-巨龍之喉</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Lumama'>Lumama-世界之樹</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【影帝-亞雷戈斯】  </div>
+<div class='my-line-height'><div>2725 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/Demonl'>Demonl-雲蛟衛</a></div>
+<div>2713 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Siestaxx'>Siestaxx-亞雷戈斯</a></div>
+<div>2702 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/Lycoris'>Lycoris-世界之樹</a></div>
+<div>2650 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/Miezlaiskis'>Miezlaiskis-雲蛟衛</a></div>
+<div>2638 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/Ubadbad'>Ubadbad-天空之牆</a></div>
+<div>2625 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/前輩'>前輩-地獄吼</a></div>
+<div>2619 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/公車炸彈'>公車炸彈-語風</a></div>
+<div>2574 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/平風'>平風-亞雷戈斯</a></div>
+<div>2553 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/order-of-the-cloud-serpent/小書痴下剋上'>小書痴下剋上-雲蛟衛</a></div>
+<div>2526 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/skywall/御令嬢'>御令嬢-天空之牆</a></div>
+<div>2524 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Atmlock'>Atmlock-亞雷戈斯</a></div>
+<div>2507 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/影帝'>影帝-亞雷戈斯</a></div>
+<div>2499 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Missal'>Missal-亞雷戈斯</a></div>
+<div>2491 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Qcxxb'>Qcxxb-亞雷戈斯</a></div>
+<div>2452 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/彩虹糖醬'>彩虹糖醬-地獄吼</a></div>
+<div>384 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/南瓜车'>南瓜车-亞雷戈斯</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【俏皮小哈比-地獄吼】  </div>
+<div class='my-line-height'><div>2806 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小怪獸'>俏皮小怪獸-地獄吼</a></div>
+<div>2709 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮黑眼圈'>俏皮黑眼圈-地獄吼</a></div>
+<div>2682 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小酷騎'>俏皮小酷騎-地獄吼</a></div>
+<div>2623 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小龍貓'>俏皮小龍貓-地獄吼</a></div>
+<div>2605 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小惡魔'>俏皮小惡魔-地獄吼</a></div>
+<div>2539 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小哈比'>俏皮小哈比-地獄吼</a></div>
+<div>2531 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/陽光小哈比'>陽光小哈比-地獄吼</a></div>
+<div>2422 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/邪惡小哈比'>邪惡小哈比-地獄吼</a></div>
+<div>288 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/俏皮小牛仔'>俏皮小牛仔-地獄吼</a></div>
+</div>
+
+<div style='margin-top:25px;font-weight:700'>⭐【自己人別防守-語風】  </div>
+<div class='my-line-height'><div>2608 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/賦爸爸帶你飛'>賦爸爸帶你飛-眾星之子</a></div>
+<div>2315 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/牛你娘的逼'>牛你娘的逼-眾星之子</a></div>
+<div>2127 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/Silencesm'>Silencesm-眾星之子</a></div>
+</div>
+
+
+
+<div style='margin-top:30px; font-weight:700; font-size:22px;'>❓被列進可疑玩家名單的，可能是以下原因：</div>
+<ul>
+<li> 過往PVP賽季，被玩家回報有脫裝行為、或已被錄影證實 </li>
+<li> 過往PVP賽季，被玩家多次回報有疑似操控勝負行為 (e.g. 故意躲柱子後面、故意不補血) </li>
+<li> 過往PVP賽季，有數個角色分數高到異常、或特定時段有分數爆漲的行為 </li>
+<li> 過往PVP賽季，有角色多次與高風險角色在冷門時段有場次 </li>
+<li> 其他異常行為被多次回報也可能納入考量 </li>
+<li> ※列為異常名單。目的是提醒大家特別注意小心。並非直接指名特定玩家涉及洗分。是否違規懲處請交由官方認定 </li>
+</ul>
+</div></body></html>

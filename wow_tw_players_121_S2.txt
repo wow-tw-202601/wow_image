@@ -4,7 +4,7 @@
 
 <title>魔獸世界-台服PvP異常玩家</title>
 <meta property="og:title" content="魔獸世界-台服PvP異常玩家名單">
-<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-10-28更新">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-10-29更新">
 <meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
 <meta property="og:type" content="website">
 
@@ -87,7 +87,7 @@
         }
     </style>
 </head>
-<body><div class='page'><div>⏱️資料最後更新時間: 2026-10-28</div>
+<body><div class='page'><div>⏱️資料最後更新時間: 2026-10-29</div>
 <div>本季有出現在排行榜的可疑玩家，分數顏色<span style='color:#BBB'>淡灰色 </span>代表是上一季分數</div><div>若遇到名單的玩家。建議大家錄影整場戰鬥、保護自身權益</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>
@@ -232,7 +232,7 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div class='my-line-height'><div>2510 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Bipolar'>Bipolar-亞雷戈斯</a></div>
 <div>2445 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Peko'>Peko-亞雷戈斯</a></div>
 <div>2373 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Pekopeko'>Pekopeko-亞雷戈斯</a></div>
-<div>2341 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Lapras'>Lapras-亞雷戈斯</a></div>
+<div>2353 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Lapras'>Lapras-亞雷戈斯</a></div>
 <div>2145 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/石化根'>石化根-亞雷戈斯</a></div>
 <div>2012 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arygos/Elmog'>Elmog-亞雷戈斯</a></div>
 </div>
@@ -331,8 +331,8 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div>2415 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/可莉餅'>可莉餅-世界之樹</a></div>
 <div>2403 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/Happylife'>Happylife-憤怒使者</a></div>
 <div>2402 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/chillwind-point/不開咪都人妖'>不開咪都人妖-冰風崗哨</a></div>
-<div>2401 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/鼓王蝗自民'>鼓王蝗自民-世界之樹</a></div>
 <div>2397 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/搞心態別哭'>搞心態別哭-憤怒使者</a></div>
+<div>2390 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/鼓王蝗自民'>鼓王蝗自民-世界之樹</a></div>
 <div>2387 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/大隻馬救台服'>大隻馬救台服-憤怒使者</a></div>
 <div>2382 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/無業啃老綠光'>無業啃老綠光-憤怒使者</a></div>
 <div>2380 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/wrathbringer/腦殘罪'>腦殘罪-憤怒使者</a></div>

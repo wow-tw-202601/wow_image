@@ -4,7 +4,7 @@
 
 <title>魔獸世界-台服PvP異常玩家</title>
 <meta property="og:title" content="魔獸世界-台服PvP異常玩家名單">
-<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-10-29更新">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-10-30更新">
 <meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
 <meta property="og:type" content="website">
 
@@ -87,7 +87,7 @@
         }
     </style>
 </head>
-<body><div class='page'><div>⏱️資料最後更新時間: 2026-10-29</div>
+<body><div class='page'><div>⏱️資料最後更新時間: 2026-10-30</div>
 <div>本季有出現在排行榜的可疑玩家，分數顏色<span style='color:#BBB'>淡灰色 </span>代表是上一季分數</div><div>若遇到名單的玩家。建議大家錄影整場戰鬥、保護自身權益</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>
@@ -172,7 +172,7 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div>2131 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/大腳老李'>大腳老李-銀翼要塞</a></div>
 <div>1846 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼蹤'>鬼蹤-銀翼要塞</a></div>
 <div>1585 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷買龍嗎'>心懷買龍嗎-世界之樹</a></div>
-<div>864 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷北車吃飯'>心懷北車吃飯-世界之樹</a></div>
+<div>1248 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/心懷北車吃飯'>心懷北車吃飯-世界之樹</a></div>
 <div>576 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/鬥鬥龍'>鬥鬥龍-眾星之子</a></div>
 <div>576 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/鬼行蹤'>鬼行蹤-克羅之刃</a></div>
 <div><span style='color: #BBB;font-weight: 700;'>2605</span> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/silverwing-hold/鬼螳螂'>鬼螳螂-銀翼要塞</a></div>

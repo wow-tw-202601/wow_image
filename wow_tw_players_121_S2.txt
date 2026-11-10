@@ -4,7 +4,7 @@
 
 <title>魔獸世界-台服PvP異常玩家</title>
 <meta property="og:title" content="魔獸世界-台服PvP異常玩家名單">
-<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-09更新">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-10更新">
 <meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
 <meta property="og:type" content="website">
 
@@ -87,7 +87,7 @@
         }
     </style>
 </head>
-<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-09</div>
+<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-10</div>
 <div>本季有出現在排行榜的可疑玩家，分數顏色<span style='color:#BBB'>淡灰色 </span>代表是上一季分數</div><div>若遇到名單的玩家。建議大家錄影整場戰鬥、保護自身權益</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>
@@ -281,10 +281,10 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div>2376 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/Iövöl'>Iövöl-屠魔山谷</a></div>
 <div>2361 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/被告悶了嗎'>被告悶了嗎-暗影之月</a></div>
 <div>2360 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/瘦大奶腿玩年'>瘦大奶腿玩年-語風</a></div>
-<div>2330 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-血之谷</a></div>
 <div>2304 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/瞎瞎'>瞎瞎-狂熱之刃</a></div>
 <div>2301 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/捏捏大兔大'>捏捏大兔大-狂熱之刃</a></div>
 <div>2269 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/演員昊京哥'>演員昊京哥-世界之樹</a></div>
+<div>2180 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-血之谷</a></div>
 <div>2165 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/這把我贏'>這把我贏-克羅之刃</a></div>
 <div>2070 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iôvôl'>Iôvôl-老馬布蘭契</a></div>
 <div>2068 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/依卡諾斯買龍'>依卡諾斯買龍-地獄吼</a></div>

@@ -4,7 +4,7 @@
 
 <title>魔獸世界-台服PvP異常玩家</title>
 <meta property="og:title" content="魔獸世界-台服PvP異常玩家名單">
-<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-13更新">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-14更新">
 <meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
 <meta property="og:type" content="website">
 
@@ -87,7 +87,7 @@
         }
     </style>
 </head>
-<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-13</div>
+<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-14</div>
 <div>本季有出現在排行榜的可疑玩家，分數顏色<span style='color:#BBB'>淡灰色 </span>代表是上一季分數</div><div>若遇到名單的玩家。建議大家錄影整場戰鬥、保護自身權益</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>

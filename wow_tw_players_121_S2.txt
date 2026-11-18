@@ -4,7 +4,7 @@
 
 <title>魔獸世界-台服PvP異常玩家</title>
 <meta property="og:title" content="魔獸世界-台服PvP異常玩家名單">
-<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-17更新">
+<meta property="og:description" content="PvP異常/脫裝玩家名單 2026-11-18更新">
 <meta property="og:image" content="https://p2.bahamut.com.tw/S/ACG/c/56/0000005656.JPG">
 <meta property="og:type" content="website">
 
@@ -87,7 +87,7 @@
         }
     </style>
 </head>
-<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-17</div>
+<body><div class='page'><div>⏱️資料最後更新時間: 2026-11-18</div>
 <div>本季有出現在排行榜的可疑玩家，分數顏色<span style='color:#BBB'>淡灰色 </span>代表是上一季分數</div><div>若遇到名單的玩家。建議大家錄影整場戰鬥、保護自身權益</div>
 
 <div class='my-line-height'><div style='margin-top:25px;font-weight:700'>📸 影片紀錄</div><div>
@@ -188,9 +188,9 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div class='my-line-height'><div>2497 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotang'>Shaotang-日落沼澤</a></div>
 <div>2446 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/少冰'>少冰-日落沼澤</a></div>
 <div>2424 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/去冰'>去冰-日落沼澤</a></div>
-<div>2390 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/無糖無冰'>無糖無冰-日落沼澤</a></div>
+<div>2423 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/無糖無冰'>無糖無冰-日落沼澤</a></div>
 <div>2130 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaotong'>Shaotong-日落沼澤</a></div>
-<div>480 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaobing'>Shaobing-日落沼澤</a></div>
+<div>576 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaobing'>Shaobing-日落沼澤</a></div>
 <div><span style='color: #BBB;font-weight: 700;'>1999</span> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/sundown-marsh/Shaoteng'>Shaoteng-日落沼澤</a></div>
 </div>
 
@@ -198,10 +198,10 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div class='my-line-height'><div>2830 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Nebliet'>Nebliet-語風</a></div>
 <div>2771 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/莣蔇苨'>莣蔇苨-語風</a></div>
 <div>2552 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/咚琪琪'>咚琪琪-語風</a></div>
+<div>2513 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Senang'>Senang-語風</a></div>
 <div>2480 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Cretrol'>Cretrol-語風</a></div>
 <div>2442 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/殺頂頂'>殺頂頂-語風</a></div>
 <div>2425 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Valkhar'>Valkhar-語風</a></div>
-<div>2400 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/Senang'>Senang-語風</a></div>
 <div>2384 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/後撤步'>後撤步-語風</a></div>
 <div>2367 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/羽澈'>羽澈-語風</a></div>
 <div>2304 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/真一文字'>真一文字-語風</a></div>
@@ -222,7 +222,7 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div style='margin-top:25px;font-weight:700'>⭐【龍皇熾焰武神-眾星之子】  </div>
 <div class='my-line-height'><div>2849 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/龍皇熾焰武神'>龍皇熾焰武神-眾星之子</a></div>
 <div>2463 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/地獄神父紅蓮'>地獄神父紅蓮-眾星之子</a></div>
-<div>2307 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/劍魔九千勝'>劍魔九千勝-眾星之子</a></div>
+<div>2384 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/劍魔九千勝'>劍魔九千勝-眾星之子</a></div>
 <div>2171 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/queldorei/俠菩提'>俠菩提-眾星之子</a></div>
 <div>384 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/arthas/劍非道'>劍非道-阿薩斯</a></div>
 <div><span style='color: #BBB;font-weight: 700;'>2375</span> <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/朱雀宇智波鼬'>朱雀宇智波鼬-血之谷</a></div>
@@ -273,6 +273,7 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div>2415 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iövöl'>Iövöl-老馬布蘭契</a></div>
 <div>2414 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/Iövöl'>Iövöl-狂熱之刃</a></div>
 <div>2409 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iöwöl'>Iöwöl-老馬布蘭契</a></div>
+<div>2404 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/瘦大奶腿玩年'>瘦大奶腿玩年-語風</a></div>
 <div>2398 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/lights-hope/艾利東斯'>艾利東斯-聖光之願</a></div>
 <div>2397 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/nightsong/Iövöl'>Iövöl-夜空之歌</a></div>
 <div>2394 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Iövöl'>Iövöl-血之谷</a></div>
@@ -280,12 +281,11 @@ https://www.youtube.com/watch?v=JPqUeamHL0k
 <div>2391 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/乛亅乛'>乛亅乛-狂熱之刃</a></div>
 <div>2376 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/demon-fall-canyon/Iövöl'>Iövöl-屠魔山谷</a></div>
 <div>2361 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/shadowmoon/被告悶了嗎'>被告悶了嗎-暗影之月</a></div>
-<div>2360 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/whisperwind/瘦大奶腿玩年'>瘦大奶腿玩年-語風</a></div>
 <div>2352 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/捏捏大兔大'>捏捏大兔大-狂熱之刃</a></div>
 <div>2304 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/zealot-blade/瞎瞎'>瞎瞎-狂熱之刃</a></div>
 <div>2290 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/krol-blade/這把我贏'>這把我贏-克羅之刃</a></div>
 <div>2269 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/演員昊京哥'>演員昊京哥-世界之樹</a></div>
-<div>2180 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-血之谷</a></div>
+<div>2234 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/bleeding-hollow/Noworriesbro'>Noworriesbro-血之谷</a></div>
 <div>2070 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/old-blanchy/Iôvôl'>Iôvôl-老馬布蘭契</a></div>
 <div>2068 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/hellscream/依卡諾斯買龍'>依卡諾斯買龍-地獄吼</a></div>
 <div>2064 <a class='no-anchor' target='_blank' href='https://worldofwarcraft.blizzard.com/zh-tw/worldsoul/tw/armory/character/world-tree/薩挖低咖'>薩挖低咖-世界之樹</a></div>
